@@ -1,2 +1,1 @@
-# news_aggregator\
-Sike
+news_aggregator built with django :)
