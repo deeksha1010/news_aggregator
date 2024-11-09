@@ -4,3 +4,4 @@ This project is your one-stop-shop for the latest news! Built with Django, the N
 ### Overview 🎉
 Aggregates news articles from multiple sources.
 Organizes them for easy browsing, so you can skip the scrolling and get straight to the juicy headlines!
+
